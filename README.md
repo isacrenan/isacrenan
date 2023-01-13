@@ -1,5 +1,5 @@
 ### Olá, eu sou Isac Renan 👋
 
 
-- 🌱 Estudante
+- Estudante de Análise e Desenvolvimento de Sistemas
 
